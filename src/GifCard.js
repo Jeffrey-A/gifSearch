@@ -22,7 +22,6 @@ class GifCard extends React.Component{
   }
     
     render(){
-        console.log("Gif card re-rendered")
         
         return(
             <div className="video-container">
